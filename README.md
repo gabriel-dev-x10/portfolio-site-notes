@@ -1,4 +1,4 @@
-# portfolio-site-notes
+# portfolio-site-notes/README.md
 Notes meant for https://gabriel-dev.neocities.org/public-todo; They're here instead of there in order to have something centralized on my end that I can access and note from any personal machine.
 
 ---
@@ -13,3 +13,4 @@ It seems that the way I'm doing this right now works perfectly for recording con
 
 Last modified: 1795240038
 
+---
